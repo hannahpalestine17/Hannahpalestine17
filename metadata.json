@@ -1,0 +1,8 @@
+{
+  "name": "Foto Produk Generator",
+  "description": "Ubah foto produk biasa jadi showcase premium secara instan dengan AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": "Foto produk profesional, pencahayaan studio, latar belakang estetik"
+}
